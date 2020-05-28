@@ -1,0 +1,2 @@
+# dns1
+belajar
